@@ -1,0 +1,1 @@
+Olá, este projeto ensina como utilizar o GitHub
